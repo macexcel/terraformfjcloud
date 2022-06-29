@@ -1,0 +1,26 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/nifcloud/nifcloud" {
+  version     = "1.6.0"
+  constraints = "1.6.0"
+  hashes = [
+    "h1:zjRjmR886SnLS24uJg7QXOviCKXKMnCQvFwC7NsBqp0=",
+    "zh:01685e1802868b003e923584d9134215ab454f9c069c65ac519fa92c6592e752",
+    "zh:045ef421654c5196564a1b1778f30e781f80ca205b7a2bf53d4192d8dcee0f93",
+    "zh:28fd14b0fb9d1538a149f03738c37a6ad27c2ceb8375d71281baeace33e397ce",
+    "zh:2cbd97a4f47a960e8936c9415d03a931e797e49b28b7048db33b59143b8edd59",
+    "zh:329099eae4565f71bd523495dfb610ecc085f7dafe0335619673b4bea53cd5c3",
+    "zh:572252914ebc45d011d4114bbd1683114cdb0c1f162bdd642b0b2fbe02f43a48",
+    "zh:5c393c74fe1612e813c9d92fed29ce0d1533d49018686ec6ae51afb94ba569b3",
+    "zh:7f270f9415b04aa49093f48373ab68ec37109f669d5eaf3376e81b94614c798d",
+    "zh:93f0c8915ddf9226f9f2f507d1e444df0218748f08e3b9a2db00f5b6fd27fefd",
+    "zh:9fe81514cc8580d77629aab6b54257ac819f72733c5f16d87109be8fd7342eb3",
+    "zh:a6a2dc558e22b447946f205d78ebac34370fc4eb538ebcdff1d77195ae03170e",
+    "zh:b28033027b487e1ae1876a3c3f222a6c934718b9b177dce3e84d7ed52a0670bb",
+    "zh:bba958f49b58eac6f23a55cf065786a880c892a993fab8fd615a4dc174ad5e46",
+    "zh:d29652a861dc8a4fcecd75b131368f13b2afde06f062f54efb7e6689b9af7f7d",
+    "zh:d7b2acc888f1dc059513d4a8d24039f415cbc677767d6c0009f8160afca93319",
+    "zh:daca272beb0cb5b127187744564da6b8ca8533c0de5158665f853db3f88044ce",
+  ]
+}
