@@ -1,0 +1,9 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfvars files
+*.tfvars
+
+# .tfstate files and backups
+*.tfstate
+*.tfstate.*
