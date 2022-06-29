@@ -42,6 +42,6 @@ resource "nifcloud_security_group" "web" {
   availability_zone = "${var.availability_zone}"
 }
 
-data "nifcloud_image" "ubuntu" {
-  image_name = "Ubuntu Server 20.04 LTS"
-}
+# data "nifcloud_image" "ubuntu" {
+#   image_name = "Ubuntu Server 20.04 LTS"
+# }
